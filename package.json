@@ -1,0 +1,25 @@
+{
+  "name": "reimporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heejongahn/reimporter.git"
+  },
+  "author": "Heejong Ahn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heejongahn/reimporter/issues"
+  },
+  "homepage": "https://github.com/heejongahn/reimporter#readme",
+  "dependencies": {
+    "jscodeshift": "^0.13.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
